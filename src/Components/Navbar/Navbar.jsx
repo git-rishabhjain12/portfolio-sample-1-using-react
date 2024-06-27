@@ -50,7 +50,7 @@ const Navbar = () => {
 
         <Link
           activeClass="active"
-          to="clients"
+          to="contactPage"
           spy={true}
           smooth={true}
           offset={-50}
